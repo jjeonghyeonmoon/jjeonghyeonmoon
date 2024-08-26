@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Jeonghyun Moon and this is my small space</h1>
+<h1 align="center">Hi 👋, I'm Jeonghyeon Moon and this is my small space</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
